@@ -16,3 +16,7 @@ Import the package
 ```
 import rayke "rayke"
 ```
+
+
+## Demo
+![demo video](images/demo.mp4)
