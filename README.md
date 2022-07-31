@@ -19,4 +19,4 @@ import rayke "rayke"
 
 
 ## Demo
-![demo video](images/demo.mp4)
+![demo clip](images/demo.gif)
